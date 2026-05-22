@@ -1,0 +1,8 @@
+{
+  "name": "ArenaHub: Turf & Gaming",
+  "description": "A seamless booking platform for local sports turfs and luxury gaming cafes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
